@@ -2,11 +2,6 @@
 
 ![Flixy](./client/public/favicon.ico)
 
-## Deployment URL
-
-- **Front-End: <frontend-url>**
-- **Back-End: <backend-url>**
-
 ## Overview
 
 Flixy is a simple app designed to help you discover, bookmark, and search for your favorite movies and series. Its user-friendly interface allows easy navigation, and the practical search feature ensures you can quickly find and bookmark content. Built with simplicity in mind, Flixy offers a straightforward experience for exploring and managing your entertainment preferences. Your bookmarks and preferences are securely stored, making Flixy an uncomplicated and reliable choice for your movie and series enjoyment.
@@ -65,7 +60,7 @@ Flixy is a simple app designed to help you discover, bookmark, and search for yo
 1. **Clone the Repository:**
 
    ```bash
-   git clone <githubrepo-url>
+   git clone https://github.com/Arjun-Soni/flixy
    ```
 
 2. **Install the dependencies:**
